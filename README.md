@@ -1,6 +1,14 @@
 # Cyberdeck
 
 
+This is my fully working pi 5 powered cyberdeck I made for hackclub.
+what it includes:
+raspberry pi 5 with 4 GB of ram
+1 keyboard
+1 touchpad
+A 5 inch touch screen
+fully 3d printed outer shell
+Stickers!
 
 
 
@@ -109,4 +117,6 @@
 
 
 
-e
+
+
+
